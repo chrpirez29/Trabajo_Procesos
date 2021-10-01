@@ -37,6 +37,7 @@
                 Main.lblResult.ForeColor = Color.Red
                 Main.lblr1.ForeColor = Color.Red
                 Main.lblr2.ForeColor = Color.Red
+            'COMENTARIO PARA VER SI SE EJECUTA AUTOMÁTICAMENTE
         End Select
     End Sub
 
