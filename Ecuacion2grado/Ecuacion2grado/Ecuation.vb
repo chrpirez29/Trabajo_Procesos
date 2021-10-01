@@ -18,7 +18,6 @@
 
         Select Case r
             Case Is > 0
-            ERROR
                 Main.lblr1.Text = Math.Round(Convert.ToDouble((-1 * B + Math.Sqrt(r)) / (2 * A)), 2)
                 Main.lblr2.Text = Math.Round(Convert.ToDouble((-1 * B - Math.Sqrt(r)) / (2 * A)), 2)
                 Main.lblResult.Text = "2 soluciones reales"
@@ -37,7 +36,6 @@
                 Main.lblResult.ForeColor = Color.Red
                 Main.lblr1.ForeColor = Color.Red
                 Main.lblr2.ForeColor = Color.Red
-            'COMENTARIO PARA VER SI SE EJECUTA AUTOMÁTICAMENTE
         End Select
     End Sub
 
