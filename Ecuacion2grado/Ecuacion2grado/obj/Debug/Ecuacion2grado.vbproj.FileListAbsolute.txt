@@ -1,0 +1,47 @@
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe.config
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.pdb
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.xml
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Main.resources
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Resources.resources
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.vbproj.GenerateResource.Cache
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.exe
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.xml
+C:\ProyectosC\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.pdb
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe.config
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.exe
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.xml
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.pdb
+\\Mac\Home\Desktop\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe.config
+\\Mac\Home\Desktop\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.exe
+\\Mac\Home\Desktop\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.xml
+\\Mac\Home\Desktop\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.pdb
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.pdb
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.xml
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.vbprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Main.resources
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\INFORMATICA CIUDAD REAL\SEGUNDO CURSO\BASE DE DATOS (BBDD)\Practicas 2016-2017\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.vbproj.GenerateResource.Cache
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe.config
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.exe
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.pdb
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.pdb
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.xml
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.vbprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Main.resources
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Resources.resources
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.vbproj.GenerateResource.Cache
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe.config
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.exe
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.pdb
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\bin\Debug\Ecuacion2grado.xml
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.vbprojAssemblyReference.cache
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Main.resources
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.Resources.resources
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.vbproj.GenerateResource.cache
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.exe
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.xml
+C:\Users\sergi\Desktop\ESI\SEGUNDO CURSO\Segundo Cuatrimestre\Base de datos\Laboratorio\Practica1\Ecuacion2grado\Ecuacion2grado\obj\Debug\Ecuacion2grado.pdb
