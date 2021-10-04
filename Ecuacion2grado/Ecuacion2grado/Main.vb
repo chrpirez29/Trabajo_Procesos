@@ -2,7 +2,7 @@
     Private A As Double
     Private B As Double
     Private C As Double
-
+    'ESTO ES UNA MODIFICACION DE PRUEBA
     Private Sub btnCompute_Click(sender As Object, e As EventArgs) Handles btnCompute.Click
         Dim eq As Ecuation
         Try
