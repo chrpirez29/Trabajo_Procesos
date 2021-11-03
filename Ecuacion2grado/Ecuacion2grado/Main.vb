@@ -5,6 +5,7 @@
     ESTO ES UN ERROR
     Private Sub btnCompute_Click(sender As Object, e As EventArgs) Handles btnCompute.Click
         Dim eq As Ecuation
+        'hola
         Try
             A = Convert.ToDouble(Replace(txtA.Text, ".", ","))
             B = Convert.ToDouble(Replace(txtB.Text, ".", ","))
